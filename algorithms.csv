@@ -1,0 +1,828 @@
+﻿CCC,#,Title,Solution,Acceptance,Difficulty,DDD
+CCC,1,Two Sum    ,,38.60%,Easy,DDD
+CCC,2,Add Two Numbers    ,,29.00%,Medium,DDD
+CCC,3,Longest Substring Without Repeating Characters    ,,24.90%,Medium,DDD
+CCC,4,Median of Two Sorted Arrays    ,,23.50%,Hard,DDD
+CCC,5,Longest Palindromic Substring    ,,25.60%,Medium,DDD
+CCC,6,ZigZag Conversion    ,,28.10%,Medium,DDD
+CCC,7,Reverse Integer    ,,24.40%,Easy,DDD
+CCC,8,String to Integer (atoi)    ,,14.10%,Medium,DDD
+CCC,9,Palindrome Number    ,,37.40%,Easy,DDD
+CCC,10,Regular Expression Matching    ,,24.40%,Hard,DDD
+CCC,11,Container With Most Water    ,,37.50%,Medium,DDD
+CCC,12,Integer to Roman    ,,47.00%,Medium,DDD
+CCC,13,Roman to Integer    ,,48.90%,Easy,DDD
+CCC,14,Longest Common Prefix    ,,31.80%,Easy,DDD
+CCC,15,3Sum    ,,21.90%,Medium,DDD
+CCC,16,3Sum Closest    ,,32.20%,Medium,DDD
+CCC,17,Letter Combinations of a Phone Number    ,,37.50%,Medium,DDD
+CCC,18,4Sum    ,,28.00%,Medium,DDD
+CCC,19,Remove Nth Node From End of List    ,,33.80%,Medium,DDD
+CCC,20,Valid Parentheses    ,,34.30%,Easy,DDD
+CCC,21,Merge Two Sorted Lists    ,,42.40%,Easy,DDD
+CCC,22,Generate Parentheses    ,,49.30%,Medium,DDD
+CCC,23,Merge k Sorted Lists    ,,29.40%,Hard,DDD
+CCC,24,Swap Nodes in Pairs    ,,40.20%,Medium,DDD
+CCC,25,Reverse Nodes in k-Group    ,,32.60%,Hard,DDD
+CCC,26,Remove Duplicates from Sorted Array    ,,37.30%,Easy,DDD
+CCC,27,Remove Element    ,,41.50%,Easy,DDD
+CCC,28,Implement strStr()    ,,29.60%,Easy,DDD
+CCC,29,Divide Two Integers    ,,15.70%,Medium,DDD
+CCC,30,Substring with Concatenation of All Words    ,,22.30%,Hard,DDD
+CCC,31,Next Permutation    ,,29.20%,Medium,DDD
+CCC,32,Longest Valid Parentheses    ,,23.50%,Hard,DDD
+CCC,33,Search in Rotated Sorted Array    ,,32.00%,Medium,DDD
+CCC,34,Find First and Last Position of Element in Sorted Array    ,,31.80%,Medium,DDD
+CCC,35,Search Insert Position    ,,40.00%,Easy,DDD
+CCC,36,Valid Sudoku    ,,38.70%,Medium,DDD
+CCC,37,Sudoku Solver    ,,33.00%,Hard,DDD
+CCC,38,Count and Say    ,,37.40%,Easy,DDD
+CCC,39,Combination Sum    ,,42.70%,Medium,DDD
+CCC,40,Combination Sum II    ,,37.10%,Medium,DDD
+CCC,41,First Missing Positive    ,,26.40%,Hard,DDD
+CCC,42,Trapping Rain Water    ,,38.50%,Hard,DDD
+CCC,43,Multiply Strings    ,,28.40%,Medium,DDD
+CCC,44,Wildcard Matching    ,,21.40%,Hard,DDD
+CCC,45,Jump Game II    ,,26.20%,Hard,DDD
+CCC,46,Permutations    ,,48.90%,Medium,DDD
+CCC,47,Permutations II    ,,36.10%,Medium,DDD
+CCC,48,Rotate Image    ,,43.20%,Medium,DDD
+CCC,49,Group Anagrams    ,,40.20%,Medium,DDD
+CCC,50,"Pow(x, n)    ",,26.40%,Medium,DDD
+CCC,51,N-Queens    ,,34.40%,Hard,DDD
+CCC,52,N-Queens II    ,,47.90%,Hard,DDD
+CCC,53,Maximum Subarray    ,,40.80%,Easy,DDD
+CCC,54,Spiral Matrix    ,,27.80%,Medium,DDD
+CCC,55,Jump Game    ,,30.00%,Medium,DDD
+CCC,56,Merge Intervals    ,,32.60%,Medium,DDD
+CCC,57,Insert Interval    ,,29.40%,Hard,DDD
+CCC,58,Length of Last Word    ,,32.10%,Easy,DDD
+CCC,59,Spiral Matrix II    ,,42.20%,Medium,DDD
+CCC,60,Permutation Sequence    ,,30.20%,Medium,DDD
+CCC,61,Rotate List    ,,25.00%,Medium,DDD
+CCC,62,Unique Paths    ,,43.80%,Medium,DDD
+CCC,63,Unique Paths II    ,,32.40%,Medium,DDD
+CCC,64,Minimum Path Sum    ,,42.10%,Medium,DDD
+CCC,65,Valid Number    ,,13.00%,Hard,DDD
+CCC,66,Plus One    ,,39.90%,Easy,DDD
+CCC,67,Add Binary    ,,35.10%,Easy,DDD
+CCC,68,Text Justification    ,,20.60%,Hard,DDD
+CCC,69,Sqrt(x)    ,,29.30%,Easy,DDD
+CCC,70,Climbing Stairs    ,,41.70%,Easy,DDD
+CCC,71,Simplify Path    ,,26.70%,Medium,DDD
+CCC,72,Edit Distance    ,,33.50%,Hard,DDD
+CCC,73,Set Matrix Zeroes    ,,37.20%,Medium,DDD
+CCC,74,Search a 2D Matrix    ,,34.50%,Medium,DDD
+CCC,75,Sort Colors    ,,39.60%,Medium,DDD
+CCC,76,Minimum Window Substring    ,,27.60%,Hard,DDD
+CCC,77,Combinations    ,,42.60%,Medium,DDD
+CCC,78,Subsets    ,,46.60%,Medium,DDD
+CCC,79,Word Search    ,,28.60%,Medium,DDD
+CCC,80,Remove Duplicates from Sorted Array II    ,,37.70%,Medium,DDD
+CCC,81,Search in Rotated Sorted Array II    ,,32.50%,Medium,DDD
+CCC,82,Remove Duplicates from Sorted List II    ,,30.60%,Medium,DDD
+CCC,83,Remove Duplicates from Sorted List    ,,40.60%,Easy,DDD
+CCC,84,Largest Rectangle in Histogram    ,,28.20%,Hard,DDD
+CCC,85,Maximal Rectangle    ,,30.30%,Hard,DDD
+CCC,86,Partition List    ,,34.30%,Medium,DDD
+CCC,87,Scramble String    ,,30.10%,Hard,DDD
+CCC,88,Merge Sorted Array    ,,32.80%,Easy,DDD
+CCC,89,Gray Code    ,,43.20%,Medium,DDD
+CCC,90,Subsets II    ,,39.20%,Medium,DDD
+CCC,91,Decode Ways    ,,20.70%,Medium,DDD
+CCC,92,Reverse Linked List II    ,,32.00%,Medium,DDD
+CCC,93,Restore IP Addresses    ,,29.00%,Medium,DDD
+CCC,94,Binary Tree Inorder Traversal    ,,51.30%,Medium,DDD
+CCC,95,Unique Binary Search Trees II    ,,32.90%,Medium,DDD
+CCC,96,Unique Binary Search Trees    ,,42.70%,Medium,DDD
+CCC,97,Interleaving String    ,,25.70%,Hard,DDD
+CCC,98,Validate Binary Search Tree    ,,24.30%,Medium,DDD
+CCC,99,Recover Binary Search Tree    ,,31.70%,Hard,DDD
+CCC,100,Same Tree    ,,48.20%,Easy,DDD
+CCC,101,Symmetric Tree    ,,41.00%,Easy,DDD
+CCC,102,Binary Tree Level Order Traversal    ,,43.90%,Medium,DDD
+CCC,103,Binary Tree Zigzag Level Order Traversal    ,,37.80%,Medium,DDD
+CCC,104,Maximum Depth of Binary Tree    ,,56.20%,Easy,DDD
+CCC,105,Construct Binary Tree from Preorder and Inorder Traversal    ,,35.60%,Medium,DDD
+CCC,106,Construct Binary Tree from Inorder and Postorder Traversal    ,,34.90%,Medium,DDD
+CCC,107,Binary Tree Level Order Traversal II    ,,43.20%,Easy,DDD
+CCC,108,Convert Sorted Array to Binary Search Tree    ,,45.70%,Easy,DDD
+CCC,109,Convert Sorted List to Binary Search Tree    ,,36.60%,Medium,DDD
+CCC,110,Balanced Binary Tree    ,,38.90%,Easy,DDD
+CCC,111,Minimum Depth of Binary Tree    ,,33.90%,Easy,DDD
+CCC,112,Path Sum    ,,35.50%,Easy,DDD
+CCC,113,Path Sum II    ,,36.80%,Medium,DDD
+CCC,114,Flatten Binary Tree to Linked List    ,,37.70%,Medium,DDD
+CCC,115,Distinct Subsequences    ,,32.70%,Hard,DDD
+CCC,116,Populating Next Right Pointers in Each Node    ,,36.70%,Medium,DDD
+CCC,117,Populating Next Right Pointers in Each Node II    ,,33.70%,Medium,DDD
+CCC,118,Pascal's Triangle    ,,41.30%,Easy,DDD
+CCC,119,Pascal's Triangle II    ,,39.30%,Easy,DDD
+CCC,120,Triangle    ,,35.80%,Medium,DDD
+CCC,121,Best Time to Buy and Sell Stock    ,,43.80%,Easy,DDD
+CCC,122,Best Time to Buy and Sell Stock II    ,,48.60%,Easy,DDD
+CCC,123,Best Time to Buy and Sell Stock III    ,,31.00%,Hard,DDD
+CCC,124,Binary Tree Maximum Path Sum    ,,27.60%,Hard,DDD
+CCC,125,Valid Palindrome    ,,27.90%,Easy,DDD
+CCC,126,Word Ladder II    ,,15.30%,Hard,DDD
+CCC,127,Word Ladder    ,,20.70%,Medium,DDD
+CCC,128,Longest Consecutive Sequence    ,,38.90%,Hard,DDD
+CCC,129,Sum Root to Leaf Numbers    ,,38.80%,Medium,DDD
+CCC,130,Surrounded Regions    ,,20.30%,Medium,DDD
+CCC,131,Palindrome Partitioning    ,,36.70%,Medium,DDD
+CCC,132,Palindrome Partitioning II    ,,25.30%,Hard,DDD
+CCC,133,Clone Graph    ,,25.10%,Medium,DDD
+CCC,134,Gas Station    ,,30.80%,Medium,DDD
+CCC,135,Candy    ,,25.70%,Hard,DDD
+CCC,136,Single Number    ,,56.40%,Easy,DDD
+CCC,137,Single Number II    ,,43.30%,Medium,DDD
+CCC,138,Copy List with Random Pointer    ,,25.70%,Medium,DDD
+CCC,139,Word Break    ,,32.10%,Medium,DDD
+CCC,140,Word Break II    ,,25.00%,Hard,DDD
+CCC,141,Linked List Cycle    ,,34.80%,Easy,DDD
+CCC,142,Linked List Cycle II    ,,30.20%,Medium,DDD
+CCC,143,Reorder List    ,,27.50%,Medium,DDD
+CCC,144,Binary Tree Preorder Traversal    ,,47.80%,Medium,DDD
+CCC,145,Binary Tree Postorder Traversal    ,,43.60%,Hard,DDD
+CCC,146,LRU Cache    ,,20.70%,Hard,DDD
+CCC,147,Insertion Sort List    ,,34.60%,Medium,DDD
+CCC,148,Sort List    ,,31.00%,Medium,DDD
+CCC,149,Max Points on a Line    ,,15.20%,Hard,DDD
+CCC,150,Evaluate Reverse Polish Notation    ,,29.20%,Medium,DDD
+CCC,151,Reverse Words in a String    ,,15.70%,Medium,DDD
+CCC,152,Maximum Product Subarray    ,,27.20%,Medium,DDD
+CCC,153,Find Minimum in Rotated Sorted Array    ,,41.30%,Medium,DDD
+CCC,154,Find Minimum in Rotated Sorted Array II    ,,38.20%,Hard,DDD
+CCC,155,Min Stack    ,,32.40%,Easy,DDD
+CCC,156,Binary Tree Upside Down    ,,47.00%,Medium,DDD
+CCC,157,Read N Characters Given Read4    ,,28.50%,Easy,DDD
+CCC,158,Read N Characters Given Read4 II - Call multiple times    ,,24.50%,Hard,DDD
+CCC,159,Longest Substring with At Most Two Distinct Characters    ,,43.40%,Hard,DDD
+CCC,160,Intersection of Two Linked Lists    ,,30.80%,Easy,DDD
+CCC,161,One Edit Distance    ,,31.40%,Medium,DDD
+CCC,162,Find Peak Element    ,,39.50%,Medium,DDD
+CCC,163,Missing Ranges    ,,22.90%,Medium,DDD
+CCC,164,Maximum Gap    ,,30.60%,Hard,DDD
+CCC,165,Compare Version Numbers    ,,21.20%,Medium,DDD
+CCC,166,Fraction to Recurring Decimal    ,,18.40%,Medium,DDD
+CCC,167,Two Sum II - Input array is sorted    ,,47.40%,Easy,DDD
+CCC,168,Excel Sheet Column Title    ,,27.70%,Easy,DDD
+CCC,169,Majority Element    ,,49.00%,Easy,DDD
+CCC,170,Two Sum III - Data structure design    ,,27.10%,Easy,DDD
+CCC,171,Excel Sheet Column Number    ,,49.30%,Easy,DDD
+CCC,172,Factorial Trailing Zeroes    ,,37.00%,Easy,DDD
+CCC,173,Binary Search Tree Iterator    ,,44.20%,Medium,DDD
+CCC,174,Dungeon Game    ,,24.90%,Hard,DDD
+CCC,179,Largest Number    ,,23.90%,Medium,DDD
+CCC,186,Reverse Words in a String II    ,,32.20%,Medium,DDD
+CCC,187,Repeated DNA Sequences    ,,33.70%,Medium,DDD
+CCC,188,Best Time to Buy and Sell Stock IV    ,,25.20%,Hard,DDD
+CCC,189,Rotate Array    ,,26.30%,Easy,DDD
+CCC,190,Reverse Bits    ,,29.30%,Easy,DDD
+CCC,191,Number of 1 Bits    ,,40.70%,Easy,DDD
+CCC,198,House Robber    ,,40.30%,Easy,DDD
+CCC,199,Binary Tree Right Side View    ,,43.60%,Medium,DDD
+CCC,200,Number of Islands    ,,37.50%,Medium,DDD
+CCC,201,Bitwise AND of Numbers Range    ,,34.80%,Medium,DDD
+CCC,202,Happy Number    ,,42.40%,Easy,DDD
+CCC,203,Remove Linked List Elements    ,,34.00%,Easy,DDD
+CCC,204,Count Primes    ,,26.80%,Easy,DDD
+CCC,205,Isomorphic Strings    ,,35.20%,Easy,DDD
+CCC,206,Reverse Linked List    ,,48.30%,Easy,DDD
+CCC,207,Course Schedule    ,,34.40%,Medium,DDD
+CCC,208,Implement Trie (Prefix Tree)    ,,32.40%,Medium,DDD
+CCC,209,Minimum Size Subarray Sum    ,,32.80%,Medium,DDD
+CCC,210,Course Schedule II    ,,31.10%,Medium,DDD
+CCC,211,Add and Search Word - Data structure design    ,,26.30%,Medium,DDD
+CCC,212,Word Search II    ,,25.50%,Hard,DDD
+CCC,213,House Robber II    ,,34.70%,Medium,DDD
+CCC,214,Shortest Palindrome    ,,25.60%,Hard,DDD
+CCC,215,Kth Largest Element in an Array    ,,41.90%,Medium,DDD
+CCC,216,Combination Sum III    ,,48.20%,Medium,DDD
+CCC,217,Contains Duplicate    ,,48.10%,Easy,DDD
+CCC,218,The Skyline Problem    ,,29.50%,Hard,DDD
+CCC,219,Contains Duplicate II    ,,33.30%,Easy,DDD
+CCC,220,Contains Duplicate III    ,,18.80%,Medium,DDD
+CCC,221,Maximal Square    ,,30.90%,Medium,DDD
+CCC,222,Count Complete Tree Nodes    ,,28.30%,Medium,DDD
+CCC,223,Rectangle Area    ,,34.30%,Medium,DDD
+CCC,224,Basic Calculator    ,,29.30%,Hard,DDD
+CCC,225,Implement Stack using Queues    ,,35.20%,Easy,DDD
+CCC,226,Invert Binary Tree    ,,54.40%,Easy,DDD
+CCC,227,Basic Calculator II    ,,30.60%,Medium,DDD
+CCC,228,Summary Ranges    ,,33.10%,Medium,DDD
+CCC,229,Majority Element II    ,,29.80%,Medium,DDD
+CCC,230,Kth Smallest Element in a BST    ,,46.50%,Medium,DDD
+CCC,231,Power of Two    ,,41.00%,Easy,DDD
+CCC,232,Implement Queue using Stacks    ,,39.00%,Easy,DDD
+CCC,233,Number of Digit One    ,,29.20%,Hard,DDD
+CCC,234,Palindrome Linked List    ,,33.90%,Easy,DDD
+CCC,235,Lowest Common Ancestor of a Binary Search Tree    ,,40.60%,Easy,DDD
+CCC,236,Lowest Common Ancestor of a Binary Tree    ,,30.80%,Medium,DDD
+CCC,237,Delete Node in a Linked List    ,,48.30%,Easy,DDD
+CCC,238,Product of Array Except Self    ,,51.10%,Medium,DDD
+CCC,239,Sliding Window Maximum    ,,34.80%,Hard,DDD
+CCC,240,Search a 2D Matrix II    ,,39.20%,Medium,DDD
+CCC,241,Different Ways to Add Parentheses    ,,46.80%,Medium,DDD
+CCC,242,Valid Anagram    ,,48.30%,Easy,DDD
+CCC,243,Shortest Word Distance    ,,54.20%,Easy,DDD
+CCC,244,Shortest Word Distance II    ,,42.30%,Medium,DDD
+CCC,245,Shortest Word Distance III    ,,51.70%,Medium,DDD
+CCC,246,Strobogrammatic Number    ,,40.50%,Easy,DDD
+CCC,247,Strobogrammatic Number II    ,,41.40%,Medium,DDD
+CCC,248,Strobogrammatic Number III    ,,33.10%,Hard,DDD
+CCC,249,Group Shifted Strings    ,,45.40%,Medium,DDD
+CCC,250,Count Univalue Subtrees    ,,44.90%,Medium,DDD
+CCC,251,Flatten 2D Vector    ,,41.80%,Medium,DDD
+CCC,252,Meeting Rooms    ,,49.40%,Easy,DDD
+CCC,253,Meeting Rooms II    ,,39.80%,Medium,DDD
+CCC,254,Factor Combinations    ,,43.70%,Medium,DDD
+CCC,255,Verify Preorder Sequence in Binary Search Tree    ,,41.30%,Medium,DDD
+CCC,256,Paint House    ,,46.60%,Easy,DDD
+CCC,257,Binary Tree Paths    ,,42.40%,Easy,DDD
+CCC,258,Add Digits    ,,52.30%,Easy,DDD
+CCC,259,3Sum Smaller    ,,42.50%,Medium,DDD
+CCC,260,Single Number III    ,,54.00%,Medium,DDD
+CCC,261,Graph Valid Tree    ,,38.50%,Medium,DDD
+CCC,263,Ugly Number    ,,39.90%,Easy,DDD
+CCC,264,Ugly Number II    ,,33.80%,Medium,DDD
+CCC,265,Paint House II    ,,39.00%,Hard,DDD
+CCC,266,Palindrome Permutation    ,,58.40%,Easy,DDD
+CCC,267,Palindrome Permutation II    ,,32.20%,Medium,DDD
+CCC,268,Missing Number    ,,45.70%,Easy,DDD
+CCC,269,Alien Dictionary    ,,27.00%,Hard,DDD
+CCC,270,Closest Binary Search Tree Value    ,,41.30%,Easy,DDD
+CCC,271,Encode and Decode Strings    ,,25.90%,Medium,DDD
+CCC,272,Closest Binary Search Tree Value II    ,,40.80%,Hard,DDD
+CCC,273,Integer to English Words    ,,23.00%,Hard,DDD
+CCC,274,H-Index    ,,34.00%,Medium,DDD
+CCC,275,H-Index II    ,,35.10%,Medium,DDD
+CCC,276,Paint Fence    ,,35.20%,Easy,DDD
+CCC,277,Find the Celebrity    ,,35.40%,Medium,DDD
+CCC,278,First Bad Version    ,,26.50%,Easy,DDD
+CCC,279,Perfect Squares    ,,38.30%,Medium,DDD
+CCC,280,Wiggle Sort    ,,58.90%,Medium,DDD
+CCC,281,Zigzag Iterator    ,,53.40%,Medium,DDD
+CCC,282,Expression Add Operators    ,,30.80%,Hard,DDD
+CCC,283,Move Zeroes    ,,52.10%,Easy,DDD
+CCC,284,Peeking Iterator    ,,36.20%,Medium,DDD
+CCC,285,Inorder Successor in BST    ,,34.50%,Medium,DDD
+CCC,286,Walls and Gates    ,,46.00%,Medium,DDD
+CCC,287,Find the Duplicate Number    ,,45.30%,Medium,DDD
+CCC,288,Unique Word Abbreviation    ,,18.40%,Medium,DDD
+CCC,289,Game of Life    ,,38.30%,Medium,DDD
+CCC,290,Word Pattern    ,,33.80%,Easy,DDD
+CCC,291,Word Pattern II    ,,38.70%,Hard,DDD
+CCC,292,Nim Game    ,,55.40%,Easy,DDD
+CCC,293,Flip Game    ,,57.60%,Easy,DDD
+CCC,294,Flip Game II    ,,47.10%,Medium,DDD
+CCC,295,Find Median from Data Stream    ,,30.70%,Hard,DDD
+CCC,296,Best Meeting Point    ,,52.60%,Hard,DDD
+CCC,297,Serialize and Deserialize Binary Tree    ,,35.80%,Hard,DDD
+CCC,298,Binary Tree Longest Consecutive Sequence    ,,42.20%,Medium,DDD
+CCC,299,Bulls and Cows    ,,36.50%,Medium,DDD
+CCC,300,Longest Increasing Subsequence    ,,39.10%,Medium,DDD
+CCC,301,Remove Invalid Parentheses    ,,36.20%,Hard,DDD
+CCC,302,Smallest Rectangle Enclosing Black Pixels    ,,47.20%,Hard,DDD
+CCC,303,Range Sum Query - Immutable    ,,33.40%,Easy,DDD
+CCC,304,Range Sum Query 2D - Immutable    ,,28.00%,Medium,DDD
+CCC,305,Number of Islands II    ,,39.80%,Hard,DDD
+CCC,306,Additive Number    ,,27.80%,Medium,DDD
+CCC,307,Range Sum Query - Mutable    ,,23.60%,Medium,DDD
+CCC,308,Range Sum Query 2D - Mutable    ,,27.20%,Hard,DDD
+CCC,309,Best Time to Buy and Sell Stock with Cooldown    ,,42.50%,Medium,DDD
+CCC,310,Minimum Height Trees    ,,29.00%,Medium,DDD
+CCC,311,Sparse Matrix Multiplication    ,,53.10%,Medium,DDD
+CCC,312,Burst Balloons    ,,44.10%,Hard,DDD
+CCC,313,Super Ugly Number    ,,38.90%,Medium,DDD
+CCC,314,Binary Tree Vertical Order Traversal    ,,38.30%,Medium,DDD
+CCC,315,Count of Smaller Numbers After Self    ,,35.30%,Hard,DDD
+CCC,316,Remove Duplicate Letters    ,,30.80%,Hard,DDD
+CCC,317,Shortest Distance from All Buildings    ,,34.90%,Hard,DDD
+CCC,318,Maximum Product of Word Lengths    ,,46.40%,Medium,DDD
+CCC,319,Bulb Switcher    ,,43.20%,Medium,DDD
+CCC,320,Generalized Abbreviation    ,,46.70%,Medium,DDD
+CCC,321,Create Maximum Number    ,,24.90%,Hard,DDD
+CCC,322,Coin Change    ,,26.90%,Medium,DDD
+CCC,323,Number of Connected Components in an Undirected Graph    ,,49.30%,Medium,DDD
+CCC,324,Wiggle Sort II    ,,26.50%,Medium,DDD
+CCC,325,Maximum Size Subarray Sum Equals k    ,,43.30%,Medium,DDD
+CCC,326,Power of Three    ,,40.90%,Easy,DDD
+CCC,327,Count of Range Sum    ,,31.00%,Hard,DDD
+CCC,328,Odd Even Linked List    ,,45.80%,Medium,DDD
+CCC,329,Longest Increasing Path in a Matrix    ,,37.60%,Hard,DDD
+CCC,330,Patching Array    ,,32.90%,Hard,DDD
+CCC,331,Verify Preorder Serialization of a Binary Tree    ,,37.50%,Medium,DDD
+CCC,332,Reconstruct Itinerary    ,,30.00%,Medium,DDD
+CCC,333,Largest BST Subtree    ,,31.40%,Medium,DDD
+CCC,334,Increasing Triplet Subsequence    ,,39.60%,Medium,DDD
+CCC,335,Self Crossing    ,,26.40%,Hard,DDD
+CCC,336,Palindrome Pairs    ,,27.60%,Hard,DDD
+CCC,337,House Robber III    ,,45.40%,Medium,DDD
+CCC,338,Counting Bits    ,,62.70%,Medium,DDD
+CCC,339,Nested List Weight Sum    ,,64.30%,Easy,DDD
+CCC,340,Longest Substring with At Most K Distinct Characters    ,,38.30%,Hard,DDD
+CCC,341,Flatten Nested List Iterator    ,,43.90%,Medium,DDD
+CCC,342,Power of Four    ,,39.40%,Easy,DDD
+CCC,343,Integer Break    ,,46.70%,Medium,DDD
+CCC,344,Reverse String    ,,61.00%,Easy,DDD
+CCC,345,Reverse Vowels of a String    ,,39.60%,Easy,DDD
+CCC,346,Moving Average from Data Stream    ,,61.20%,Easy,DDD
+CCC,347,Top K Frequent Elements    ,,50.40%,Medium,DDD
+CCC,348,Design Tic-Tac-Toe    ,,46.40%,Medium,DDD
+CCC,349,Intersection of Two Arrays    ,,48.70%,Easy,DDD
+CCC,350,Intersection of Two Arrays II    ,,44.20%,Easy,DDD
+CCC,351,Android Unlock Patterns    ,,44.60%,Medium,DDD
+CCC,352,Data Stream as Disjoint Intervals    ,,41.30%,Hard,DDD
+CCC,353,Design Snake Game    ,,27.50%,Medium,DDD
+CCC,354,Russian Doll Envelopes    ,,32.70%,Hard,DDD
+CCC,355,Design Twitter    ,,26.00%,Medium,DDD
+CCC,356,Line Reflection    ,,30.40%,Medium,DDD
+CCC,357,Count Numbers with Unique Digits    ,,46.20%,Medium,DDD
+CCC,358,Rearrange String k Distance Apart    ,,31.80%,Hard,DDD
+CCC,359,Logger Rate Limiter    ,,61.40%,Easy,DDD
+CCC,360,Sort Transformed Array    ,,45.20%,Medium,DDD
+CCC,361,Bomb Enemy    ,,40.80%,Medium,DDD
+CCC,362,Design Hit Counter    ,,55.60%,Medium,DDD
+CCC,363,Max Sum of Rectangle No Larger Than K    ,,34.00%,Hard,DDD
+CCC,364,Nested List Weight Sum II    ,,54.20%,Medium,DDD
+CCC,365,Water and Jug Problem    ,,28.30%,Medium,DDD
+CCC,366,Find Leaves of Binary Tree    ,,61.70%,Medium,DDD
+CCC,367,Valid Perfect Square    ,,38.80%,Easy,DDD
+CCC,368,Largest Divisible Subset    ,,33.90%,Medium,DDD
+CCC,369,Plus One Linked List    ,,54.90%,Medium,DDD
+CCC,370,Range Addition    ,,57.70%,Medium,DDD
+CCC,371,Sum of Two Integers    ,,50.80%,Easy,DDD
+CCC,372,Super Pow    ,,34.80%,Medium,DDD
+CCC,373,Find K Pairs with Smallest Sums    ,,31.70%,Medium,DDD
+CCC,374,Guess Number Higher or Lower    ,,37.30%,Easy,DDD
+CCC,375,Guess Number Higher or Lower II    ,,36.20%,Medium,DDD
+CCC,376,Wiggle Subsequence    ,,36.20%,Medium,DDD
+CCC,377,Combination Sum IV    ,,43.00%,Medium,DDD
+CCC,378,Kth Smallest Element in a Sorted Matrix    ,,45.90%,Medium,DDD
+CCC,379,Design Phone Directory    ,,37.20%,Medium,DDD
+CCC,380,Insert Delete GetRandom O(1)    ,,40.30%,Medium,DDD
+CCC,381,Insert Delete GetRandom O(1) - Duplicates allowed    ,,29.90%,Hard,DDD
+CCC,382,Linked List Random Node    ,,47.70%,Medium,DDD
+CCC,383,Ransom Note    ,,48.10%,Easy,DDD
+CCC,384,Shuffle an Array    ,,47.60%,Medium,DDD
+CCC,385,Mini Parser    ,,31.00%,Medium,DDD
+CCC,386,Lexicographical Numbers    ,,42.90%,Medium,DDD
+CCC,387,First Unique Character in a String    ,,47.30%,Easy,DDD
+CCC,388,Longest Absolute File Path    ,,37.70%,Medium,DDD
+CCC,389,Find the Difference    ,,51.70%,Easy,DDD
+CCC,390,Elimination Game    ,,42.70%,Medium,DDD
+CCC,391,Perfect Rectangle    ,,27.70%,Hard,DDD
+CCC,392,Is Subsequence    ,,44.70%,Medium,DDD
+CCC,393,UTF-8 Validation    ,,34.90%,Medium,DDD
+CCC,394,Decode String    ,,42.20%,Medium,DDD
+CCC,395,Longest Substring with At Least K Repeating Characters    ,,35.80%,Medium,DDD
+CCC,396,Rotate Function    ,,34.20%,Medium,DDD
+CCC,397,Integer Replacement    ,,30.60%,Medium,DDD
+CCC,398,Random Pick Index    ,,45.30%,Medium,DDD
+CCC,399,Evaluate Division    ,,42.90%,Medium,DDD
+CCC,400,Nth Digit    ,,29.90%,Easy,DDD
+CCC,401,Binary Watch    ,,44.80%,Easy,DDD
+CCC,402,Remove K Digits    ,,25.80%,Medium,DDD
+CCC,403,Frog Jump    ,,32.80%,Hard,DDD
+CCC,404,Sum of Left Leaves    ,,47.90%,Easy,DDD
+CCC,405,Convert a Number to Hexadecimal    ,,41.10%,Easy,DDD
+CCC,406,Queue Reconstruction by Height    ,,56.80%,Medium,DDD
+CCC,407,Trapping Rain Water II    ,,37.80%,Hard,DDD
+CCC,408,Valid Word Abbreviation    ,,28.40%,Easy,DDD
+CCC,409,Longest Palindrome    ,,46.20%,Easy,DDD
+CCC,410,Split Array Largest Sum    ,,39.80%,Hard,DDD
+CCC,411,Minimum Unique Word Abbreviation    ,,33.70%,Hard,DDD
+CCC,412,Fizz Buzz    ,,58.00%,Easy,DDD
+CCC,413,Arithmetic Slices    ,,54.50%,Medium,DDD
+CCC,414,Third Maximum Number    ,,28.20%,Easy,DDD
+CCC,415,Add Strings    ,,41.80%,Easy,DDD
+CCC,416,Partition Equal Subset Sum    ,,38.70%,Medium,DDD
+CCC,417,Pacific Atlantic Water Flow    ,,35.10%,Medium,DDD
+CCC,418,Sentence Screen Fitting    ,,28.70%,Medium,DDD
+CCC,419,Battleships in a Board    ,,63.70%,Medium,DDD
+CCC,420,Strong Password Checker    ,,19.20%,Hard,DDD
+CCC,421,Maximum XOR of Two Numbers in an Array    ,,48.60%,Medium,DDD
+CCC,422,Valid Word Square    ,,36.50%,Easy,DDD
+CCC,423,Reconstruct Original Digits from English    ,,44.90%,Medium,DDD
+CCC,424,Longest Repeating Character Replacement    ,,42.50%,Medium,DDD
+CCC,425,Word Squares    ,,42.90%,Hard,DDD
+CCC,426,Convert Binary Search Tree to Sorted Doubly Linked List    ,,18.50%,Medium,DDD
+CCC,427,Construct Quad Tree    ,,43.10%,Easy,DDD
+CCC,428,Serialize and Deserialize N-ary Tree    ,,26.40%,Hard,DDD
+CCC,429,N-ary Tree Level Order Traversal    ,,42.80%,Easy,DDD
+CCC,430,Flatten a Multilevel Doubly Linked List    ,,23.50%,Medium,DDD
+CCC,431,Encode N-ary Tree to Binary Tree    ,,28.50%,Hard,DDD
+CCC,432,All O`one Data Structure    ,,27.80%,Hard,DDD
+CCC,433,Minimum Genetic Mutation    ,,35.50%,Medium,DDD
+CCC,434,Number of Segments in a String    ,,36.60%,Easy,DDD
+CCC,435,Non-overlapping Intervals    ,,41.10%,Medium,DDD
+CCC,436,Find Right Interval    ,,41.70%,Medium,DDD
+CCC,437,Path Sum III    ,,40.30%,Easy,DDD
+CCC,438,Find All Anagrams in a String    ,,34.00%,Easy,DDD
+CCC,439,Ternary Expression Parser    ,,51.60%,Medium,DDD
+CCC,440,K-th Smallest in Lexicographical Order    ,,25.80%,Hard,DDD
+CCC,441,Arranging Coins    ,,36.70%,Easy,DDD
+CCC,442,Find All Duplicates in an Array    ,,57.70%,Medium,DDD
+CCC,443,String Compression    ,,35.80%,Easy,DDD
+CCC,444,Sequence Reconstruction    ,,19.60%,Medium,DDD
+CCC,445,Add Two Numbers II    ,,46.80%,Medium,DDD
+CCC,446,Arithmetic Slices II - Subsequence    ,,28.00%,Hard,DDD
+CCC,447,Number of Boomerangs    ,,47.20%,Easy,DDD
+CCC,448,Find All Numbers Disappeared in an Array    ,,51.30%,Easy,DDD
+CCC,449,Serialize and Deserialize BST    ,,42.90%,Medium,DDD
+CCC,450,Delete Node in a BST    ,,37.60%,Medium,DDD
+CCC,451,Sort Characters By Frequency    ,,52.40%,Medium,DDD
+CCC,452,Minimum Number of Arrows to Burst Balloons    ,,44.60%,Medium,DDD
+CCC,453,Minimum Moves to Equal Array Elements    ,,48.10%,Easy,DDD
+CCC,454,4Sum II    ,,47.80%,Medium,DDD
+CCC,455,Assign Cookies    ,,47.40%,Easy,DDD
+CCC,456,132 Pattern    ,,27.60%,Medium,DDD
+CCC,457,Circular Array Loop    ,,23.20%,Medium,DDD
+CCC,458,Poor Pigs    ,,43.00%,Easy,DDD
+CCC,459,Repeated Substring Pattern    ,,38.40%,Easy,DDD
+CCC,460,LFU Cache    ,,25.60%,Hard,DDD
+CCC,461,Hamming Distance    ,,69.50%,Easy,DDD
+CCC,462,Minimum Moves to Equal Array Elements II    ,,51.80%,Medium,DDD
+CCC,463,Island Perimeter    ,,58.20%,Easy,DDD
+CCC,464,Can I Win    ,,26.00%,Medium,DDD
+CCC,465,Optimal Account Balancing    ,,39.80%,Hard,DDD
+CCC,466,Count The Repetitions    ,,27.30%,Hard,DDD
+CCC,467,Unique Substrings in Wraparound String    ,,33.30%,Medium,DDD
+CCC,468,Validate IP Address    ,,20.50%,Medium,DDD
+CCC,469,Convex Polygon    ,,34.80%,Medium,DDD
+CCC,470,Implement Rand10() Using Rand7()    ,,42.10%,Medium,DDD
+CCC,471,Encode String with Shortest Length    ,,43.60%,Hard,DDD
+CCC,472,Concatenated Words    ,,31.60%,Hard,DDD
+CCC,473,Matchsticks to Square    ,,35.40%,Medium,DDD
+CCC,474,Ones and Zeroes    ,,38.80%,Medium,DDD
+CCC,475,Heaters    ,,29.80%,Easy,DDD
+CCC,476,Number Complement    ,,61.30%,Easy,DDD
+CCC,477,Total Hamming Distance    ,,47.80%,Medium,DDD
+CCC,479,Largest Palindrome Product    ,,25.90%,Easy,DDD
+CCC,480,Sliding Window Median    ,,30.80%,Hard,DDD
+CCC,481,Magical String    ,,45.70%,Medium,DDD
+CCC,482,License Key Formatting    ,,39.20%,Easy,DDD
+CCC,483,Smallest Good Base    ,,33.90%,Hard,DDD
+CCC,484,Find Permutation    ,,55.70%,Medium,DDD
+CCC,485,Max Consecutive Ones    ,,53.70%,Easy,DDD
+CCC,486,Predict the Winner    ,,45.40%,Medium,DDD
+CCC,487,Max Consecutive Ones II    ,,45.40%,Medium,DDD
+CCC,488,Zuma Game    ,,36.70%,Hard,DDD
+CCC,489,Robot Room Cleaner    ,,31.50%,Hard,DDD
+CCC,490,The Maze    ,,43.90%,Medium,DDD
+CCC,491,Increasing Subsequences    ,,39.10%,Medium,DDD
+CCC,492,Construct the Rectangle    ,,48.00%,Easy,DDD
+CCC,493,Reverse Pairs    ,,20.80%,Hard,DDD
+CCC,494,Target Sum    ,,44.00%,Medium,DDD
+CCC,495,Teemo Attacking    ,,51.50%,Medium,DDD
+CCC,496,Next Greater Element I    ,,56.80%,Easy,DDD
+CCC,498,Diagonal Traverse    ,,44.60%,Medium,DDD
+CCC,499,The Maze III    ,,34.30%,Hard,DDD
+CCC,500,Keyboard Row    ,,60.30%,Easy,DDD
+CCC,501,Find Mode in Binary Search Tree    ,,37.80%,Easy,DDD
+CCC,502,IPO    ,,36.40%,Hard,DDD
+CCC,503,Next Greater Element II    ,,48.20%,Medium,DDD
+CCC,504,Base 7    ,,43.90%,Easy,DDD
+CCC,505,The Maze II    ,,39.00%,Medium,DDD
+CCC,506,Relative Ranks    ,,47.10%,Easy,DDD
+CCC,507,Perfect Number    ,,32.70%,Easy,DDD
+CCC,508,Most Frequent Subtree Sum    ,,52.60%,Medium,DDD
+CCC,513,Find Bottom Left Tree Value    ,,56.50%,Medium,DDD
+CCC,514,Freedom Trail    ,,39.40%,Hard,DDD
+CCC,515,Find Largest Value in Each Tree Row    ,,56.00%,Medium,DDD
+CCC,516,Longest Palindromic Subsequence    ,,43.30%,Medium,DDD
+CCC,517,Super Washing Machines    ,,36.40%,Hard,DDD
+CCC,518,Coin Change 2    ,,36.30%,Medium,DDD
+CCC,520,Detect Capital    ,,51.90%,Easy,DDD
+CCC,521,Longest Uncommon Subsequence I     ,,55.80%,Easy,DDD
+CCC,522,Longest Uncommon Subsequence II    ,,32.20%,Medium,DDD
+CCC,523,Continuous Subarray Sum    ,,23.40%,Medium,DDD
+CCC,524,Longest Word in Dictionary through Deleting    ,,43.50%,Medium,DDD
+CCC,525,Contiguous Array    ,,41.80%,Medium,DDD
+CCC,526,Beautiful Arrangement    ,,53.00%,Medium,DDD
+CCC,527,Word Abbreviation    ,,44.50%,Hard,DDD
+CCC,529,Minesweeper    ,,49.60%,Medium,DDD
+CCC,530,Minimum Absolute Difference in BST    ,,48.10%,Easy,DDD
+CCC,531,Lonely Pixel I    ,,56.50%,Medium,DDD
+CCC,532,K-diff Pairs in an Array    ,,28.40%,Easy,DDD
+CCC,533,Lonely Pixel II    ,,45.40%,Medium,DDD
+CCC,535,Encode and Decode TinyURL    ,,74.00%,Medium,DDD
+CCC,536,Construct Binary Tree from String    ,,42.80%,Medium,DDD
+CCC,537,Complex Number Multiplication    ,,64.10%,Medium,DDD
+CCC,538,Convert BST to Greater Tree    ,,48.70%,Easy,DDD
+CCC,539,Minimum Time Difference    ,,46.20%,Medium,DDD
+CCC,540,Single Element in a Sorted Array    ,,56.10%,Medium,DDD
+CCC,541,Reverse String II    ,,44.10%,Easy,DDD
+CCC,542,01 Matrix    ,,33.30%,Medium,DDD
+CCC,543,Diameter of Binary Tree    ,,45.20%,Easy,DDD
+CCC,544,Output Contest Matches    ,,71.60%,Medium,DDD
+CCC,545,Boundary of Binary Tree    ,,32.70%,Medium,DDD
+CCC,546,Remove Boxes    ,,36.10%,Hard,DDD
+CCC,547,Friend Circles    ,,49.60%,Medium,DDD
+CCC,548,Split Array with Equal Sum    ,,38.10%,Medium,DDD
+CCC,549,Binary Tree Longest Consecutive Sequence II    ,,42.80%,Medium,DDD
+CCC,551,Student Attendance Record I    ,,44.80%,Easy,DDD
+CCC,552,Student Attendance Record II    ,,31.80%,Hard,DDD
+CCC,553,Optimal Division    ,,55.20%,Medium,DDD
+CCC,554,Brick Wall    ,,46.60%,Medium,DDD
+CCC,555,Split Concatenated Strings    ,,38.10%,Medium,DDD
+CCC,556,Next Greater Element III    ,,28.80%,Medium,DDD
+CCC,557,Reverse Words in a String III    ,,60.90%,Easy,DDD
+CCC,558,Quad Tree Intersection    ,,23.90%,Easy,DDD
+CCC,559,Maximum Depth of N-ary Tree    ,,50.10%,Easy,DDD
+CCC,560,Subarray Sum Equals K    ,,39.90%,Medium,DDD
+CCC,561,Array Partition I    ,,66.80%,Easy,DDD
+CCC,562,Longest Line of Consecutive One in Matrix    ,,41.10%,Medium,DDD
+CCC,563,Binary Tree Tilt    ,,46.90%,Easy,DDD
+CCC,564,Find the Closest Palindrome    ,,16.80%,Hard,DDD
+CCC,565,Array Nesting    ,,49.90%,Medium,DDD
+CCC,566,Reshape the Matrix    ,,57.70%,Easy,DDD
+CCC,567,Permutation in String    ,,36.20%,Medium,DDD
+CCC,568,Maximum Vacation Days    ,,36.40%,Hard,DDD
+CCC,572,Subtree of Another Tree    ,,40.30%,Easy,DDD
+CCC,573,Squirrel Simulation    ,,52.50%,Medium,DDD
+CCC,575,Distribute Candies    ,,58.20%,Easy,DDD
+CCC,576,Out of Boundary Paths    ,,30.60%,Medium,DDD
+CCC,581,Shortest Unsorted Continuous Subarray    ,,29.30%,Easy,DDD
+CCC,582,Kill Process    ,,51.90%,Medium,DDD
+CCC,583,Delete Operation for Two Strings    ,,44.80%,Medium,DDD
+CCC,587,Erect the Fence    ,,33.70%,Hard,DDD
+CCC,588,Design In-Memory File System    ,,36.30%,Hard,DDD
+CCC,589,N-ary Tree Preorder Traversal    ,,41.60%,Easy,DDD
+CCC,590,N-ary Tree Postorder Traversal    ,,47.00%,Easy,DDD
+CCC,591,Tag Validator    ,,31.10%,Hard,DDD
+CCC,592,Fraction Addition and Subtraction    ,,46.10%,Medium,DDD
+CCC,593,Valid Square    ,,39.90%,Medium,DDD
+CCC,594,Longest Harmonious Subsequence    ,,41.40%,Easy,DDD
+CCC,598,Range Addition II    ,,48.00%,Easy,DDD
+CCC,599,Minimum Index Sum of Two Lists    ,,46.50%,Easy,DDD
+CCC,600,Non-negative Integers without Consecutive Ones    ,,31.90%,Hard,DDD
+CCC,604,Design Compressed String Iterator    ,,33.60%,Easy,DDD
+CCC,605,Can Place Flowers    ,,30.00%,Easy,DDD
+CCC,606,Construct String from Binary Tree    ,,50.20%,Easy,DDD
+CCC,609,Find Duplicate File in System    ,,52.50%,Medium,DDD
+CCC,611,Valid Triangle Number    ,,42.00%,Medium,DDD
+CCC,616,Add Bold Tag in String    ,,38.10%,Medium,DDD
+CCC,617,Merge Two Binary Trees    ,,68.10%,Easy,DDD
+CCC,621,Task Scheduler    ,,42.50%,Medium,DDD
+CCC,622,Design Circular Queue    ,,39.70%,Medium,DDD
+CCC,623,Add One Row to Tree    ,,46.10%,Medium,DDD
+CCC,624,Maximum Distance in Arrays    ,,35.80%,Easy,DDD
+CCC,625,Minimum Factorization    ,,31.30%,Medium,DDD
+CCC,628,Maximum Product of Three Numbers    ,,44.80%,Easy,DDD
+CCC,629,K Inverse Pairs Array    ,,27.80%,Hard,DDD
+CCC,630,Course Schedule III    ,,29.40%,Hard,DDD
+CCC,631,Design Excel Sum Formula    ,,28.40%,Hard,DDD
+CCC,632,Smallest Range    ,,42.80%,Hard,DDD
+CCC,633,Sum of Square Numbers    ,,32.40%,Easy,DDD
+CCC,634,Find the Derangement of An Array    ,,36.30%,Medium,DDD
+CCC,635,Design Log Storage System    ,,49.60%,Medium,DDD
+CCC,636,Exclusive Time of Functions    ,,44.80%,Medium,DDD
+CCC,637,Average of Levels in Binary Tree    ,,56.30%,Easy,DDD
+CCC,638,Shopping Offers    ,,46.00%,Medium,DDD
+CCC,639,Decode Ways II    ,,24.20%,Hard,DDD
+CCC,640,Solve the Equation    ,,38.70%,Medium,DDD
+CCC,641,Design Circular Deque    ,,51.40%,Medium,DDD
+CCC,642,Design Search Autocomplete System    ,,30.60%,Hard,DDD
+CCC,643,Maximum Average Subarray I    ,,37.80%,Easy,DDD
+CCC,644,Maximum Average Subarray II    ,,25.70%,Hard,DDD
+CCC,645,Set Mismatch    ,,39.70%,Easy,DDD
+CCC,646,Maximum Length of Pair Chain    ,,47.50%,Medium,DDD
+CCC,647,Palindromic Substrings    ,,54.40%,Medium,DDD
+CCC,648,Replace Words    ,,48.50%,Medium,DDD
+CCC,649,Dota2 Senate    ,,36.90%,Medium,DDD
+CCC,650,2 Keys Keyboard    ,,45.50%,Medium,DDD
+CCC,651,4 Keys Keyboard    ,,49.90%,Medium,DDD
+CCC,652,Find Duplicate Subtrees    ,,38.00%,Medium,DDD
+CCC,653,Two Sum IV - Input is a BST    ,,50.30%,Easy,DDD
+CCC,654,Maximum Binary Tree    ,,70.70%,Medium,DDD
+CCC,655,Print Binary Tree    ,,48.80%,Medium,DDD
+CCC,656,Coin Path    ,,25.70%,Hard,DDD
+CCC,657,Judge Route Circle    ,,68.70%,Easy,DDD
+CCC,658,Find K Closest Elements    ,,34.60%,Medium,DDD
+CCC,659,Split Array into Consecutive Subsequences    ,,37.30%,Medium,DDD
+CCC,660,Remove 9    ,,50.10%,Hard,DDD
+CCC,661,Image Smoother    ,,46.80%,Easy,DDD
+CCC,662,Maximum Width of Binary Tree    ,,38.30%,Medium,DDD
+CCC,663,Equal Tree Partition    ,,36.40%,Medium,DDD
+CCC,664,Strange Printer    ,,34.80%,Hard,DDD
+CCC,665,Non-decreasing Array    ,,19.90%,Easy,DDD
+CCC,666,Path Sum IV    ,,50.70%,Medium,DDD
+CCC,667,Beautiful Arrangement II    ,,51.00%,Medium,DDD
+CCC,668,Kth Smallest Number in Multiplication Table    ,,40.50%,Hard,DDD
+CCC,669,Trim a Binary Search Tree    ,,58.10%,Easy,DDD
+CCC,670,Maximum Swap    ,,38.80%,Medium,DDD
+CCC,671,Second Minimum Node In a Binary Tree    ,,42.10%,Easy,DDD
+CCC,672,Bulb Switcher II    ,,48.90%,Medium,DDD
+CCC,673,Number of Longest Increasing Subsequence    ,,32.00%,Medium,DDD
+CCC,674,Longest Continuous Increasing Subsequence    ,,42.70%,Easy,DDD
+CCC,675,Cut Off Trees for Golf Event    ,,27.20%,Hard,DDD
+CCC,676,Implement Magic Dictionary    ,,49.10%,Medium,DDD
+CCC,677,Map Sum Pairs    ,,50.80%,Medium,DDD
+CCC,678,Valid Parenthesis String    ,,29.60%,Medium,DDD
+CCC,679,24 Game    ,,39.00%,Hard,DDD
+CCC,680,Valid Palindrome II    ,,32.30%,Easy,DDD
+CCC,681,Next Closest Time    ,,41.60%,Medium,DDD
+CCC,682,Baseball Game    ,,58.40%,Easy,DDD
+CCC,683,K Empty Slots    ,,33.50%,Hard,DDD
+CCC,684,Redundant Connection    ,,45.00%,Medium,DDD
+CCC,685,Redundant Connection II    ,,27.70%,Hard,DDD
+CCC,686,Repeated String Match    ,,31.50%,Easy,DDD
+CCC,687,Longest Univalue Path    ,,32.70%,Easy,DDD
+CCC,688,Knight Probability in Chessboard    ,,40.60%,Medium,DDD
+CCC,689,Maximum Sum of 3 Non-Overlapping Subarrays    ,,41.40%,Hard,DDD
+CCC,690,Employee Importance    ,,51.80%,Easy,DDD
+CCC,691,Stickers to Spell Word    ,,35.40%,Hard,DDD
+CCC,692,Top K Frequent Words    ,,41.90%,Medium,DDD
+CCC,693,Binary Number with Alternating Bits    ,,56.20%,Easy,DDD
+CCC,694,Number of Distinct Islands    ,,45.40%,Medium,DDD
+CCC,695,Max Area of Island    ,,52.20%,Easy,DDD
+CCC,696,Count Binary Substrings    ,,51.10%,Easy,DDD
+CCC,697,Degree of an Array    ,,47.10%,Easy,DDD
+CCC,698,Partition to K Equal Sum Subsets    ,,38.30%,Medium,DDD
+CCC,699,Falling Squares    ,,38.10%,Hard,DDD
+CCC,700,Search in a Binary Search Tree    ,,42.40%,Easy,DDD
+CCC,701,Insert into a Binary Search Tree    ,,38.00%,Medium,DDD
+CCC,702,Search in a Sorted Array of Unknown Size    ,,29.20%,Medium,DDD
+CCC,703,Kth Largest Element in a Stream    ,,23.90%,Easy,DDD
+CCC,704,Binary Search    ,,19.20%,Easy,DDD
+CCC,705,Design HashSet    ,,19.90%,Easy,DDD
+CCC,706,Design HashMap    ,,28.20%,Easy,DDD
+CCC,707,Design Linked List    ,,10.20%,Easy,DDD
+CCC,708,Insert into a Cyclic Sorted List    ,,10.90%,Medium,DDD
+CCC,709,To Lower Case    ,,75.50%,Easy,DDD
+CCC,710,Random Pick with Blacklist    ,,29.30%,Hard,DDD
+CCC,711,Number of Distinct Islands II    ,,42.50%,Hard,DDD
+CCC,712,Minimum ASCII Delete Sum for Two Strings    ,,51.50%,Medium,DDD
+CCC,713,Subarray Product Less Than K    ,,33.30%,Medium,DDD
+CCC,714,Best Time to Buy and Sell Stock with Transaction Fee    ,,47.20%,Medium,DDD
+CCC,715,Range Module    ,,30.80%,Hard,DDD
+CCC,716,Max Stack    ,,36.70%,Hard,DDD
+CCC,717,1-bit and 2-bit Characters    ,,49.00%,Easy,DDD
+CCC,718,Maximum Length of Repeated Subarray    ,,42.00%,Medium,DDD
+CCC,719,Find K-th Smallest Pair Distance    ,,27.70%,Hard,DDD
+CCC,720,Longest Word in Dictionary    ,,41.60%,Easy,DDD
+CCC,721,Accounts Merge    ,,34.20%,Medium,DDD
+CCC,722,Remove Comments    ,,28.00%,Medium,DDD
+CCC,723,Candy Crush    ,,55.90%,Medium,DDD
+CCC,724,Find Pivot Index    ,,39.20%,Easy,DDD
+CCC,725,Split Linked List in Parts    ,,47.10%,Medium,DDD
+CCC,726,Number of Atoms    ,,43.70%,Hard,DDD
+CCC,727,Minimum Window Subsequence    ,,32.00%,Hard,DDD
+CCC,728,Self Dividing Numbers    ,,67.00%,Easy,DDD
+CCC,729,My Calendar I    ,,42.90%,Medium,DDD
+CCC,730,Count Different Palindromic Subsequences    ,,35.80%,Hard,DDD
+CCC,731,My Calendar II    ,,38.80%,Medium,DDD
+CCC,732,My Calendar III    ,,50.20%,Hard,DDD
+CCC,733,Flood Fill    ,,47.70%,Easy,DDD
+CCC,734,Sentence Similarity    ,,39.00%,Easy,DDD
+CCC,735,Asteroid Collision    ,,37.00%,Medium,DDD
+CCC,736,Parse Lisp Expression    ,,41.90%,Hard,DDD
+CCC,737,Sentence Similarity II    ,,40.40%,Medium,DDD
+CCC,738,Monotone Increasing Digits    ,,41.30%,Medium,DDD
+CCC,739,Daily Temperatures    ,,53.90%,Medium,DDD
+CCC,740,Delete and Earn    ,,44.00%,Medium,DDD
+CCC,741,Cherry Pickup    ,,24.40%,Hard,DDD
+CCC,742,Closest Leaf in a Binary Tree    ,,35.00%,Medium,DDD
+CCC,743,Network Delay Time    ,,36.20%,Medium,DDD
+CCC,744,Find Smallest Letter Greater Than Target    ,,43.20%,Easy,DDD
+CCC,745,Prefix and Suffix Search    ,,26.30%,Hard,DDD
+CCC,746,Min Cost Climbing Stairs    ,,43.80%,Easy,DDD
+CCC,747,Largest Number At Least Twice of Others    ,,40.40%,Easy,DDD
+CCC,748,Shortest Completing Word    ,,52.40%,Medium,DDD
+CCC,749,Contain Virus    ,,40.30%,Hard,DDD
+CCC,750,Number Of Corner Rectangles    ,,57.90%,Medium,DDD
+CCC,751,IP to CIDR    ,,53.30%,Easy,DDD
+CCC,752,Open the Lock    ,,40.80%,Medium,DDD
+CCC,753,Cracking the Safe    ,,41.40%,Hard,DDD
+CCC,754,Reach a Number    ,,28.30%,Medium,DDD
+CCC,755,Pour Water    ,,35.20%,Medium,DDD
+CCC,756,Pyramid Transition Matrix    ,,47.30%,Medium,DDD
+CCC,757,Set Intersection Size At Least Two    ,,34.80%,Hard,DDD
+CCC,758,Bold Words in String    ,,39.70%,Easy,DDD
+CCC,759,Employee Free Time    ,,53.70%,Hard,DDD
+CCC,760,Find Anagram Mappings    ,,76.60%,Easy,DDD
+CCC,761,Special Binary String    ,,44.40%,Hard,DDD
+CCC,762,Prime Number of Set Bits in Binary Representation    ,,55.80%,Easy,DDD
+CCC,763,Partition Labels    ,,64.90%,Medium,DDD
+CCC,764,Largest Plus Sign    ,,40.30%,Medium,DDD
+CCC,765,Couples Holding Hands    ,,48.60%,Hard,DDD
+CCC,766,Toeplitz Matrix    ,,58.20%,Easy,DDD
+CCC,767,Reorganize String    ,,37.30%,Medium,DDD
+CCC,768,Max Chunks To Make Sorted II    ,,43.20%,Hard,DDD
+CCC,769,Max Chunks To Make Sorted    ,,48.50%,Medium,DDD
+CCC,770,Basic Calculator IV    ,,42.60%,Hard,DDD
+CCC,771,Jewels and Stones    ,,81.90%,Easy,DDD
+CCC,772,Basic Calculator III    ,,40.50%,Hard,DDD
+CCC,773,Sliding Puzzle    ,,46.40%,Hard,DDD
+CCC,774,Minimize Max Distance to Gas Station    ,,34.00%,Hard,DDD
+CCC,775,Global and Local Inversions    ,,34.70%,Medium,DDD
+CCC,776,Split BST    ,,49.40%,Medium,DDD
+CCC,777,Swap Adjacent in LR String    ,,29.20%,Medium,DDD
+CCC,778,Swim in Rising Water    ,,44.30%,Hard,DDD
+CCC,779,K-th Symbol in Grammar    ,,37.20%,Medium,DDD
+CCC,780,Reaching Points    ,,24.40%,Hard,DDD
+CCC,781,Rabbits in Forest    ,,49.60%,Medium,DDD
+CCC,782,Transform to Chessboard    ,,37.60%,Hard,DDD
+CCC,783,Minimum Distance Between BST Nodes    ,,48.00%,Easy,DDD
+CCC,784,Letter Case Permutation    ,,53.20%,Easy,DDD
+CCC,785,Is Graph Bipartite?    ,,38.80%,Medium,DDD
+CCC,786,K-th Smallest Prime Fraction    ,,33.40%,Hard,DDD
+CCC,787,Cheapest Flights Within K Stops    ,,30.00%,Medium,DDD
+CCC,788,Rotated Digits    ,,51.10%,Easy,DDD
+CCC,789,Escape The Ghosts    ,,52.10%,Medium,DDD
+CCC,790,Domino and Tromino Tiling    ,,33.20%,Medium,DDD
+CCC,791,Custom Sort String    ,,59.40%,Medium,DDD
+CCC,792,Number of Matching Subsequences    ,,37.10%,Medium,DDD
+CCC,793,Preimage Size of Factorial Zeroes Function    ,,41.10%,Hard,DDD
+CCC,794,Valid Tic-Tac-Toe State    ,,27.70%,Medium,DDD
+CCC,795,Number of Subarrays with Bounded Maximum    ,,41.50%,Medium,DDD
+CCC,796,Rotate String    ,,49.70%,Easy,DDD
+CCC,797,All Paths From Source to Target    ,,67.20%,Medium,DDD
+CCC,798,Smallest Rotation with Highest Score    ,,34.30%,Hard,DDD
+CCC,799,Champagne Tower    ,,29.90%,Medium,DDD
+CCC,800,Similar RGB Color    ,,54.60%,Easy,DDD
+CCC,801,Minimum Swaps To Make Sequences Increasing    ,,30.60%,Medium,DDD
+CCC,802,Find Eventual Safe States    ,,39.00%,Medium,DDD
+CCC,803,Bricks Falling When Hit    ,,22.80%,Hard,DDD
+CCC,804,Unique Morse Code Words    ,,71.30%,Easy,DDD
+CCC,805,Split Array With Same Average    ,,20.90%,Hard,DDD
+CCC,806,Number of Lines To Write String    ,,62.10%,Easy,DDD
+CCC,807,Max Increase to Keep City Skyline    ,,79.70%,Medium,DDD
+CCC,808,Soup Servings    ,,33.60%,Medium,DDD
+CCC,809,Expressive Words    ,,37.70%,Medium,DDD
+CCC,810,Chalkboard XOR Game    ,,39.50%,Hard,DDD
+CCC,811,Subdomain Visit Count    ,,61.30%,Easy,DDD
+CCC,812,Largest Triangle Area    ,,53.30%,Easy,DDD
+CCC,813,Largest Sum of Averages    ,,41.10%,Medium,DDD
+CCC,814,Binary Tree Pruning    ,,68.40%,Medium,DDD
+CCC,815,Bus Routes    ,,32.70%,Hard,DDD
+CCC,816,Ambiguous Coordinates    ,,42.20%,Medium,DDD
+CCC,817,Linked List Components    ,,50.80%,Medium,DDD
+CCC,818,Race Car    ,,28.10%,Hard,DDD
+CCC,819,Most Common Word    ,,48.70%,Easy,DDD
+CCC,820,Short Encoding of Words    ,,42.60%,Medium,DDD
+CCC,821,Shortest Distance to a Character    ,,60.80%,Easy,DDD
+CCC,822,Card Flipping Game    ,,36.10%,Medium,DDD
+CCC,823,Binary Trees With Factors    ,,29.30%,Medium,DDD
+CCC,824,Goat Latin    ,,55.00%,Easy,DDD
+CCC,825,Friends Of Appropriate Ages    ,,30.10%,Medium,DDD
+CCC,826,Most Profit Assigning Work    ,,32.20%,Medium,DDD
+CCC,827,Making A Large Island    ,,40.00%,Hard,DDD
+CCC,828,Unique Letter String    ,,34.00%,Hard,DDD
+CCC,829,Consecutive Numbers Sum    ,,26.80%,Medium,DDD
+CCC,830,Positions of Large Groups    ,,46.60%,Easy,DDD
+CCC,831,Masking Personal Information    ,,42.10%,Medium,DDD
+CCC,832,Flipping an Image    ,,69.20%,Easy,DDD
+CCC,833,Find And Replace in String    ,,38.30%,Medium,DDD
+CCC,834,Sum of Distances in Tree    ,,32.60%,Hard,DDD
+CCC,835,Image Overlap    ,,39.80%,Medium,DDD
+CCC,836,Rectangle Overlap    ,,42.00%,Easy,DDD
+CCC,837,New 21 Game    ,,25.80%,Medium,DDD
+CCC,838,Push Dominoes    ,,40.40%,Medium,DDD
+CCC,839,Similar String Groups    ,,33.30%,Hard,DDD
+CCC,840,Magic Squares In Grid    ,,34.30%,Easy,DDD
+CCC,841,Keys and Rooms    ,,56.70%,Medium,DDD
+CCC,842,Split Array into Fibonacci Sequence    ,,34.20%,Medium,DDD
+CCC,843,Guess the Word    ,,33.90%,Hard,DDD
+CCC,844,Backspace String Compare    ,,45.40%,Easy,DDD
+CCC,845,Longest Mountain in Array    ,,31.40%,Medium,DDD
+CCC,846,Hand of Straights    ,,42.70%,Medium,DDD
+CCC,847,Shortest Path Visiting All Nodes    ,,40.90%,Hard,DDD
+CCC,848,Shifting Letters    ,,35.10%,Medium,DDD
+CCC,849,Maximize Distance to Closest Person    ,,38.10%,Easy,DDD
+CCC,850,Rectangle Area II    ,,42.10%,Hard,DDD
+CCC,851,Loud and Rich    ,,42.90%,Medium,DDD
+CCC,852,Peak Index in a Mountain Array    ,,68.00%,Easy,DDD
+CCC,853,Car Fleet    ,,31.00%,Medium,DDD
+CCC,854,K-Similar Strings    ,,30.10%,Hard,DDD
+CCC,855,Exam Room    ,,29.30%,Medium,DDD
+CCC,856,Score of Parentheses    ,,54.10%,Medium,DDD
+CCC,857,Minimum Cost to Hire K Workers    ,,38.70%,Hard,DDD
+CCC,858,Mirror Reflection    ,,47.20%,Medium,DDD
+CCC,859,Buddy Strings    ,,26.80%,Easy,DDD
+CCC,860,Lemonade Change    ,,49.40%,Easy,DDD
+CCC,861,Score After Flipping Matrix    ,,69.10%,Medium,DDD
+CCC,862,Shortest Subarray with Sum at Least K    ,,16.50%,Hard,DDD
+CCC,863,All Nodes Distance K in Binary Tree    ,,40.20%,Medium,DDD
+CCC,864,Shortest Path to Get All Keys    ,,31.00%,Hard,DDD
+CCC,865,Smallest Subtree with all the Deepest Nodes    ,,49.40%,Medium,DDD
+CCC,866,Prime Palindrome    ,,17.60%,Medium,DDD
+CCC,867,Transpose Matrix    ,,66.80%,Easy,DDD
+CCC,868,Binary Gap    ,,60.90%,Easy,DDD
+CCC,869,Reordered Power of 2    ,,46.80%,Medium,DDD
+CCC,870,Advantage Shuffle    ,,38.60%,Medium,DDD
+CCC,871,Minimum Number of Refueling Stops    ,,24.80%,Hard,DDD
+CCC,872,Leaf-Similar Trees    ,,64.90%,Easy,DDD
+CCC,873,Length of Longest Fibonacci Subsequence    ,,40.60%,Medium,DDD
+CCC,874,Walking Robot Simulation    ,,26.20%,Easy,DDD
+CCC,875,Koko Eating Bananas    ,,39.60%,Medium,DDD
+CCC,876,Middle of the Linked List    New,,73.80%,Easy,DDD
+CCC,877,Stone Game    New,,40.40%,Medium,DDD
+CCC,878,Nth Magical Number    New,,14.30%,Hard,DDD
+CCC,879,Profitable Schemes    New,,19.10%,Hard,DDD
+CCC,880,Random Pick with Weight    New,,44.50%,Medium,DDD
+CCC,881,Random Flip Matrix    New,,35.20%,Medium,DDD
+CCC,882,Random Point in Non-overlapping Rectangles    New,,32.20%,Medium,DDD
+CCC,883,Generate Random Point in a Circle    New,,29.70%,Medium,DDD
