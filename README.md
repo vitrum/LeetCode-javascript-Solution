@@ -4,13 +4,14 @@
 
 也许是时候回过头，重拾初心。
 
-编程的乐趣在于 折腾算法
+编程的乐趣在于 **折腾算法**
+
 -------鲁迅（我并没有说）
 
 
 ## 关于算法
 
-[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 是近期很火的项目，系统的介绍了精典算法在javascript中的应用和实现。
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 是近期很火的项目，系统的介绍了经典算法在javascript中的应用和实现。
 
 ## 关于LeetCode
 
