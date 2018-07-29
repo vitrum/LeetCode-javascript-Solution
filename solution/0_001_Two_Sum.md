@@ -4,7 +4,7 @@
 
 Given an array of integers, return **indices **of the two numbers such that they add up to a specific target.
 
-You may assume that each input would have _**exactly **_one solution, and you may not use the _same _element twice.
+You may assume that each input would have **exactly **one solution, and you may not use the same element twice.
 
 **Example:**
 
@@ -18,11 +18,7 @@ return [0, 1].
 
 ### 分析
 
-
-
 ## Hints
-
-
 
 ## My solution
 
