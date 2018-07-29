@@ -1,10 +1,8 @@
 # Problems list
 
-[1.Two Sum](/solution/0_001_Two_Sum.md)
-
 |#|Title|Solution|Acceptance|Difficulty|
-| ----   | -----:   |-----:   |-----:   | :----: |
-|1|Two Sum    ||38.60%|Easy|
+| ----   | ----- | ----- | :-----:   | :----: |
+|1|[Two Sum](/solution/0_001_Two_Sum.md)    ||38.60%|Easy|
 |2|Add Two Numbers    ||29.00%|Medium|
 |3|Longest Substring Without Repeating Characters    ||24.90%|Medium|
 |4|Median of Two Sorted Arrays    ||23.50%|Hard|
