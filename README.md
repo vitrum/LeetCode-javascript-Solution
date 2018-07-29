@@ -20,7 +20,7 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 |4|[Median of Two Sorted Arrays]    ||23.50%|Hard|
 |5|Longest Palindromic Substring    ||25.60%|Medium|
 |6|ZigZag Conversion    ||28.10%|Medium|
-|7|Reverse Integer    ||24.40%|Easy|
+|7|[Reverse Integer](/solution/a0007.md)     ||24.40%|Easy|
 |8|String to Integer (atoi)    ||14.10%|Medium|
 |9|Palindrome Number    ||37.40%|Easy|
 |10|Regular Expression Matching    ||24.40%|Hard|
