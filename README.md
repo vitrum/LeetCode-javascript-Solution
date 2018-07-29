@@ -1,10 +1,16 @@
 # 这是一份关于leetcode上的javascript解决方案的分析
+## by Vitrum @ 2018
 
 编程10多年，积累了成吨的工具和代码片段库，可是随着javascript的大热，越来越多新知识新工具新想法不断在冲击，常常面临种种选择，这时候，会想问问自己，人生究竟应该积累些什么？
 
 也许是时候回过头，重拾初心。
 
 “编程的乐趣在于 **折腾算法**” --鲁迅（我并没有说）
+
+***
+###[在线阅读](https://vitrum.gitbooks.io/leetcode-javascript-solution/content/)
+###[Github地址](https://github.com/vitrum/LeetCode-javascript-Solution)
+***
 
 
 ## 关于算法
