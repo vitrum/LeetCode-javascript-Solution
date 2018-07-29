@@ -2,8 +2,8 @@
 
 |#|Title|Solution|Acceptance|Difficulty|
 | ----   | ----- | ----- | :-----:   | :----: |
-|1|[Two Sum](/solution/0_001_Two_Sum.md)    ||38.60%|Easy|
-|2|Add Two Numbers    ||29.00%|Medium|
+|1|[Two Sum](/solution/a0001.md)    ||38.60%|Easy|
+|2|[Add Two Numbers](/solution/a0002.md)     ||29.00%|Medium|
 |3|Longest Substring Without Repeating Characters    ||24.90%|Medium|
 |4|Median of Two Sorted Arrays    ||23.50%|Hard|
 |5|Longest Palindromic Substring    ||25.60%|Medium|
