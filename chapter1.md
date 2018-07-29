@@ -51,7 +51,7 @@
 |47|Permutations II    ||36.10%|Medium|
 |48|Rotate Image    ||43.20%|Medium|
 |49|Group Anagrams    ||40.20%|Medium|
-|50|"Pow(x| n)    "||26.40%|Medium|
+|50|"Pow(x, n)    "||26.40%|Medium|
 |51|N-Queens    ||34.40%|Hard|
 |52|N-Queens II    ||47.90%|Hard|
 |53|Maximum Subarray    ||40.80%|Easy|
