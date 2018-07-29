@@ -1,8 +1,16 @@
-# 这是一份关于leetcode 上的javascript 解决方案的分析
+# 这是一份关于leetcode上的javascript解决方案的分析
 
-编程10多年，看到很多人整理了自己的工具库，可是随着javascript的大热，越来越多新知识新工具新想法不断在冲击。究竟自己应该积累些什么？
+编程10多年，积累了成吨的工具和代码片段库，可是随着javascript的大热，越来越多新知识新工具新想法不断在冲击，常常回面临种种选择，这时候，会想问问自己，人生究竟应该积累些什么？
 
-也许是时候回过头，重新拾起基本的算法。
+也许是时候回过头，重拾初心。
+
+编程的乐趣在于 折腾算法
+-------鲁迅（我并没有说）
+
+
+## 关于算法
+
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 是近期很火的项目，系统的介绍了精典算法在javascript中的应用和实现。
 
 ## 关于LeetCode
 
