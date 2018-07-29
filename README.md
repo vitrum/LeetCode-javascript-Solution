@@ -15,15 +15,15 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 |#|Title|Solution|Acceptance|Difficulty|
 | ----   | ----- | ----- | :-----:   | :----: |
 |1|[Two Sum](/solution/a0001.md)    |[Solution](https://leetcode.com/articles/two-sum/) |38.60%|Easy|
-|2|[Add Two Numbers](/solution/a0002.md)     | [Solution](https://leetcode.com/articles/two-sum/)|29.00%|Medium|
-|3|[Longest Substring Without Repeating Characters]()    |[Solution]()|24.90%|Medium|
-|4|[Median of Two Sorted Arrays]()    | [Solution]() |23.50%|Hard|
-|5|[Longest Palindromic Substring]()    | [Solution]() |25.60%|Medium|
-|6|[ZigZag Conversion]()    | [Solution]() |28.10%|Medium|
-|7|[Reverse Integer](/solution/a0007.md)     | [Solution]() |24.40%|Easy|
-|8|[String to Integer (atoi)]()    | [Solution]() |14.10%|Medium|
-|9|[Palindrome Number]()   | [Solution]() |37.40%|Easy|
-|10|[Regular Expression Matching]()    | [Solution]() |24.40%|Hard|
+|2|[Add Two Numbers](/solution/a0002.md)     | [Solution](https://leetcode.com/articles/add-two-numbers/)|29.00%|Medium|
+|3|[Longest Substring Without Repeating Characters]    |[Solution]()|24.90%|Medium|
+|4|[Median of Two Sorted Arrays]    | [Solution]() |23.50%|Hard|
+|5|[Longest Palindromic Substring]    | [Solution]() |25.60%|Medium|
+|6|[ZigZag Conversion]    | [Solution]() |28.10%|Medium|
+|7|[Reverse Integer](/solution/a0007.md)     | [Solution](https://leetcode.com/articles/reverse-integer/) |24.40%|Easy|
+|8|[String to Integer (atoi)]    | [Solution]() |14.10%|Medium|
+|9|[Palindrome Number](/solution/a0009.md)   | [Solution](https://leetcode.com/articles/palindrome-number/) |37.40%|Easy|
+|10|[Regular Expression Matching]    | [Solution]() |24.40%|Hard|
 |11|Container With Most Water    | [Solution]() |37.50%|Medium|
 |12|Integer to Roman    | [Solution]() |47.00%|Medium|
 |13|Roman to Integer    | [Solution]() |48.90%|Easy|
