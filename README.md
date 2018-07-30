@@ -26,7 +26,7 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 ## Problems list
 
 |#|Title|Solution|Acceptance|Difficulty|
-| ----   | ----- | ----- | :-----:   | :----: |
+| :----   | ----- | ----- | :-----:   | :----: |
 |1|[Two Sum](/solution/a0001.md)    |[Solution](https://leetcode.com/articles/two-sum/) |38.60%|Easy|
 |2|[Add Two Numbers](/solution/a0002.md)     | [Solution](https://leetcode.com/articles/add-two-numbers/)|29.00%|Medium|
 |7|[Reverse Integer](/solution/a0007.md)     | [Solution](https://leetcode.com/articles/reverse-integer/) |24.40%|Easy|
@@ -255,7 +255,6 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 |239|Sliding Window Maximum    | [Solution]() |34.80%|Hard|
 |240|Search a 2D Matrix II    | [Solution]() |39.20%|Medium|
 |241|Different Ways to Add Parentheses    | [Solution]() |46.80%|Medium|
-
 |243|Shortest Word Distance    | [Solution]() |54.20%|Easy|
 |244|Shortest Word Distance II    | [Solution]() |42.30%|Medium|
 |245|Shortest Word Distance III    | [Solution]() |51.70%|Medium|
