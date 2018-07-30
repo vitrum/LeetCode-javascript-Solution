@@ -29,18 +29,22 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 | ----   | ----- | ----- | :-----:   | :----: |
 |1|[Two Sum](/solution/a0001.md)    |[Solution](https://leetcode.com/articles/two-sum/) |38.60%|Easy|
 |2|[Add Two Numbers](/solution/a0002.md)     | [Solution](https://leetcode.com/articles/add-two-numbers/)|29.00%|Medium|
+|7|[Reverse Integer](/solution/a0007.md)     | [Solution](https://leetcode.com/articles/reverse-integer/) |24.40%|Easy|
+|9|[Palindrome Number](/solution/a0009.md)   | [Solution](https://leetcode.com/articles/palindrome-number/) |37.40%|Easy|
+|13|[Roman to Integer](/solution/a0013.md)    |  |48.90%|Easy|
+|14|[Longest Common Prefix](/solution/a0014.md)    | [Solution](https://leetcode.com/articles/longest-common-prefix) |31.80%|Easy|
+|223|[Rectangle Area](/solution/a0223.md)    |  |34.30%|Medium|
+|242|[Valid Anagram](/solution/a0242.md)    | [Solution](https://leetcode.com/articles/valid-anagram) |48.30%|Easy|
+|771|[Jewels and Stones](/solution/a0771.md)    | [Solution](https://leetcode.com/articles/jewels-and-stones) |81.90%|Easy|
+|  |  |  |  |  |
 |3|[Longest Substring Without Repeating Characters]    |[Solution]()|24.90%|Medium|
 |4|[Median of Two Sorted Arrays]    | [Solution]() |23.50%|Hard|
 |5|[Longest Palindromic Substring]    | [Solution]() |25.60%|Medium|
 |6|[ZigZag Conversion]    | [Solution]() |28.10%|Medium|
-|7|[Reverse Integer](/solution/a0007.md)     | [Solution](https://leetcode.com/articles/reverse-integer/) |24.40%|Easy|
 |8|[String to Integer (atoi)]    | [Solution]() |14.10%|Medium|
-|9|[Palindrome Number](/solution/a0009.md)   | [Solution](https://leetcode.com/articles/palindrome-number/) |37.40%|Easy|
 |10|[Regular Expression Matching]    | [Solution]() |24.40%|Hard|
 |11|Container With Most Water    | [Solution]() |37.50%|Medium|
 |12|Integer to Roman    | [Solution]() |47.00%|Medium|
-|13|Roman to Integer    | [Solution]() |48.90%|Easy|
-|14|Longest Common Prefix    | [Solution]() |31.80%|Easy|
 |15|3Sum    | [Solution]() |21.90%|Medium|
 |16|3Sum Closest    | [Solution]() |32.20%|Medium|
 |17|Letter Combinations of a Phone Number    | [Solution]() |37.50%|Medium|
@@ -233,7 +237,6 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 |220|Contains Duplicate III    | [Solution]() |18.80%|Medium|
 |221|Maximal Square    | [Solution]() |30.90%|Medium|
 |222|Count Complete Tree Nodes    | [Solution]() |28.30%|Medium|
-|223|Rectangle Area    | [Solution]() |34.30%|Medium|
 |224|Basic Calculator    | [Solution]() |29.30%|Hard|
 |225|Implement Stack using Queues    | [Solution]() |35.20%|Easy|
 |226|Invert Binary Tree    | [Solution]() |54.40%|Easy|
@@ -252,7 +255,7 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 |239|Sliding Window Maximum    | [Solution]() |34.80%|Hard|
 |240|Search a 2D Matrix II    | [Solution]() |39.20%|Medium|
 |241|Different Ways to Add Parentheses    | [Solution]() |46.80%|Medium|
-|242|Valid Anagram    | [Solution]() |48.30%|Easy|
+
 |243|Shortest Word Distance    | [Solution]() |54.20%|Easy|
 |244|Shortest Word Distance II    | [Solution]() |42.30%|Medium|
 |245|Shortest Word Distance III    | [Solution]() |51.70%|Medium|
@@ -741,7 +744,6 @@ LeetCode题目分：Easy，Medium，Hard三个难度，并且附有通过率，�
 |768|Max Chunks To Make Sorted II    | [Solution]() |43.20%|Hard|
 |769|Max Chunks To Make Sorted    | [Solution]() |48.50%|Medium|
 |770|Basic Calculator IV    | [Solution]() |42.60%|Hard|
-|771|Jewels and Stones    | [Solution]() |81.90%|Easy|
 |772|Basic Calculator III    | [Solution]() |40.50%|Hard|
 |773|Sliding Puzzle    | [Solution]() |46.40%|Hard|
 |774|Minimize Max Distance to Gas Station    | [Solution]() |34.00%|Hard|
